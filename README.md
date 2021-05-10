@@ -1,5 +1,6 @@
 # Kari-Kuruma
-Kari-Kuruma:Easy Constructing toy Car for Prototyping.
+Kari-Kuruma:Easy Constructing toy car for Prototyping.
+
 簡単に組み立てられるプロトタイピング向けラジコンカー車体
 
 <img src="https://github.com/henjin0/Kari-Kuruma/blob/main/image1.jpeg?raw=true" width=50%>
