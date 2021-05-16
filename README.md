@@ -77,19 +77,19 @@ Creation of Wire link arm is complete. Parts cut to 64 mm :Wire link arm A are u
 
 # Constructing images
 
-<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_1.jpg?raw=true" width=50%>
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_1.jpg?raw=true" width=90%>
 
 <img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_2.jpg?raw=true" width=50%>
 
-<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_3.jpg?raw=true" width=50%>
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_3.jpg?raw=true" width=90%>
 
-<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_4.jpg?raw=true" width=50%>
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_4.jpg?raw=true" width=90%>
 
 <img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/front_compornents_5.jpg?raw=true" width=30%>
 
-<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/flip_compornents_1.jpg?raw=true" width=50%>
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/flip_compornents_1.jpg?raw=true" width=90%>
 
-<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/flip_compornents_2.jpg?raw=true" width=50%>
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/flip_compornents_2.jpg?raw=true" width=90%>
 
 <img src="https://github.com/henjin0/Kari-Kuruma/blob/main/constructingimage/rear_compornents_1.jpg?raw=true" width=50%>
 
