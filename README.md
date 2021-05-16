@@ -11,7 +11,7 @@ Also, parts that are not available through 3D printing can be easily obtained fr
 This makes it possible to avoid as much as possible the risk of parts being out of supply.
 
 Kari-Kurumaは3Dプリンティングで作成できるA5サイズのプロトタイピング向けラジコンカー車体で、Raspberry Piなどの基板やカメラなどの各種センサ類の組付けが容易にできます。
-また、3Dプリンティングで手に入らない部品はTAMIYAなどから簡単に入手できるようにしており、部品のディスコンなどに極力振り回されないように考慮しました。
+また、3Dプリンティングで手に入らない部品はTAMIYAなどから簡単に入手できるようにしており、部品のディスコンなどに極力振り回されないようにしました。
 
 # Other assembly parts
 The links are examples.
