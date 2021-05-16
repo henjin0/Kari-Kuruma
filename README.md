@@ -15,6 +15,7 @@ Kari-Kurumaは3Dプリンティングで作成できるA5サイズのプロト�
 
 # Other assembly parts
 The links are examples.
+
 リンク先は一例です。
 
 - [TAMIYA GEAR SET Item No:70239 (42T/12T)](https://www.tamiya.com/japan/products/70239/index.html)
@@ -30,21 +31,41 @@ or
 
 # How to build Wire link arm.
 Wire link arm are made two paper clips(ex:https://www.askul.co.jp/p/8188431/).
+
 2つのペーパークリップ(針金クリップ)をつかってWire link armを作ります。
 
-1. Bend two paper clips into straight bar wires.
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/paper_clip.jpeg?raw=true" width=50%>
+
+1. Bend two paper clips into straight bar wires. 2つのクリップを折り曲げて直線状にします。
+
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/straightbar.jpg?raw=true" width=50%>
 
 
-2. Cut one wire to length of 64 mm.
+2. Cut one wire to length of about 64 mm. 一つをおおよそ64 mmにカットします。
+
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/steer_parts_A_1.jpg?raw=true" width=50%>
 
 
-3. Cut another wire to length of 52 mm.
+3. Cut another wire to length of about 52 mm. もう一つをおおよそ52 mmにカットします。
+
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/steer_parts_B_1.jpg?raw=true" width=50%>
 
 
-4. Bend 64 mm wire as shown in the figure below.
+4. Bend 64 mm wire as shown in the figure below. 64 mmにカットしたものを下の写真のように折り曲げます。
 
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/steer_parts_A_2.jpg?raw=true" width=50%>
 
-5. Bend another wire as shown in the figure below.
+5. Bend another wire as shown in the figure below. 52 mmにカットしたものを下の写真のように折り曲げます。
+
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/steer_parts_B_3_side.jpg?raw=true" width=50%>
+
+After bending to about 20 degrees parts, bend wire as shown in the figure below. 20度に折り曲げた先の部位は下の写真のように折り曲げます。
+
+<img src="https://github.com/henjin0/Kari-Kuruma/blob/main/imagefile/steer_parts_B_3_tpo.jpg?raw=true" width=50%>
+
+Creation of Wire link arm is complete. Parts cut to 64 mm are upper parts, and parts cut to 52 mm are parts that transmit the driving force of steering from the servo motor to the upper.
+
+これでWire link armの作成は完了です。64 mmにカットした部品はアッパー部品に、52 mmにカットした部品はサーボからアッパーへステアの駆動力を伝えるパーツになります。
 
 # License
 Please see [LICENSE](https://github.com/henjin0/Kari-Kuruma/blob/main/LICENSE).
