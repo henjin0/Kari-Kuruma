@@ -22,12 +22,17 @@ The links are examples.
 - [TAMIYA AO-1001 FA-130 motor](https://www.tamiya.com/japan/products/94380/index.html)
 or
 - [MABUCHI FA-130RA motor](https://www.mabuchi-motor.co.jp/motorize/branch/motor/)
+- [motor driver(何かしらのモータドライバ)](https://www.cytron.io/p-maker-drive-simplifying-h-bridge-motor-driver-for-beginner)
 
 - [TowerPro SG-90 Servo motor](https://akizukidenshi.com/catalog/g/gM-08761/)
-- [TAMIYA THREADED SHAFT SET (only using φ3(23mm))](https://www.tamiya.com/japan/products/70182/index.html):2 screws
-- [M3x18 Machine Screw](https://www.amazon.com/dp/B07D5V279W/ref=cm_sw_em_r_mt_dp_WT2JPND0KJ9E13ZG9NET):2 screws
-- [M3x10 Machine Screw](https://www.amazon.com/dp/B07MF3RN7M/ref=cm_sw_em_r_mt_dp_0NSJJ36C3078DVDZV988):6 screws
-- Wire link Arm（Please see below.）
+- [TAMIYA THREADED SHAFT SET (only using φ3(23mm))](https://www.tamiya.com/japan/products/70182/index.html):2 screws(ネジ2本)
+- [M3x18 Machine Screw(M3x18 mmの機械ネジ)](https://www.amazon.com/dp/B07D5V279W/ref=cm_sw_em_r_mt_dp_WT2JPND0KJ9E13ZG9NET):2 screws(ネジ2本)
+- [M3x10 Machine Screw(M3x10 mmの機械ネジ)](https://www.amazon.com/dp/B07MF3RN7M/ref=cm_sw_em_r_mt_dp_0NSJJ36C3078DVDZV988):6 screws(ネジ6本)
+- [Wire link Arm（Please see below.）](https://github.com/henjin0/Kari-Kuruma#how-to-build-wire-link-arm)
+
+- [4 Slot AAA Battery Holder](https://akizukidenshi.com/catalog/g/gP-00735/)
+
+
 
 # How to build Wire link arm.
 Wire link arm are made two paper clips(ex:https://www.askul.co.jp/p/8188431/).
